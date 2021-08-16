@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">RecyleViewFirstApp</string>
+    <string name="app_name">RecyleViewDiffUtils</string>
     <string name="name">Chhote Lal Pal</string>
-    <string name="address">Fatehpur ,Uttar Pradesh</string>
+    <string name="id">Id :</string>
+    <string name="age">11</string>
+    <string name="Add">ADD</string>
 </resources>
